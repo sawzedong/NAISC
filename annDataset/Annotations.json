@@ -1,0 +1,1161 @@
+{
+    "0": {
+        "path": "annDataset\\0.jpg",
+        "gender": "Male",
+        "insults": [
+            "Your face looks like an inflated balloon~0.8",
+            "You look homeless~0.5",
+            "You look like a dwarf from Lord Of The Rings~0.2"
+        ],
+        "compliments": [
+            "You have a charming smile~0.7",
+            "Big Brane~0.1"
+        ]
+    },
+    "1": {
+        "path": "annDataset\\1.jpg",
+        "gender": "Male",
+        "insults": [
+            "Your face is splattered with freckles~0.3",
+            "Get some help you look depressed~0.5",
+            "You look like a patient who has just gone through chemo~0.2"
+        ],
+        "compliments": [
+            "You have full lips~0.15"
+        ]
+    },
+    "10": {
+        "path": "annDataset\\10.jpg",
+        "gender": "Female",
+        "insults": [
+            "You look like a character out of an Japanese manga~0.0"
+        ],
+        "compliments": [
+            "Your makeup complements you well~0.3",
+            "You look like a fashion icon~0.6",
+            "You look cute~0.7"
+        ]
+    },
+    "100": {
+        "path": "annDataset\\100.jpg",
+        "gender": "Female",
+        "insults": [
+            "Stop being a spoilt little kid~0.5",
+            "You look like your mother drank when she was pregnant with you~0.95",
+            "You look like a little devil~0.2"
+        ],
+        "compliments": [
+            "You look cute~0.7",
+            "I am sure you are a sweet kid~0.6"
+        ]
+    },
+    "101": {
+        "path": "annDataset\\101.jpg",
+        "gender": "Male",
+        "insults": [
+            "You have elephant-like ears~0.8",
+            "Your smile looks sheepish~0.4"
+        ],
+        "compliments": [
+            "Your dark eyes sparkle with life~0.7"
+        ]
+    },
+    "102": {
+        "path": "annDataset\\102.jpg",
+        "gender": "Male",
+        "insults": [
+            "You look like a chungus~0.3",
+            "You're balding~0.7",
+            "Stop looking like a pedophile~1.0",
+            "You aged like rotten meat~0.7"
+        ],
+        "compliments": [
+            "You have pointy sharp ears~0.05"
+        ]
+    },
+    "103": {
+        "path": "annDataset\\103.jpg",
+        "gender": "Female",
+        "insults": [
+            "You look like a she-Donald Duck~1.0",
+            "Your nose is as flat as smashed potato~0.95",
+            "No wonder abortion is outlawed~1.0"
+        ],
+        "compliments": [
+            "Your long straight hair looks good~0.4",
+            "Your eyelashes are a nice accent to your beautiful eyes~0.8"
+        ]
+    },
+    "104": {
+        "path": "annDataset\\104.jpg",
+        "gender": "Female",
+        "insults": [],
+        "compliments": [
+            "You look cute~0.5",
+            "Your eyes sparkle with life~0.3",
+            "Your ear studs look gorgeous~0.6"
+        ]
+    },
+    "105": {
+        "path": "annDataset\\105.jpg",
+        "gender": "Female",
+        "insults": [
+            "You look like a karen~0.9",
+            "You have messy hair~0.3",
+            "Your eyebrows are not symmetrical~0.7",
+            "You have panda eyes~0.4"
+        ],
+        "compliments": [
+            "You have sparkling white teeth~0.75"
+        ]
+    },
+    "106": {
+        "path": "annDataset\\106.jpg",
+        "gender": "Female",
+        "insults": [
+            "You look like a stroke victim~0.99"
+        ],
+        "compliments": [
+            "Your sunglasses look great~0.5",
+            "Your hairstyle looks stylish~0.5",
+            "You have beady eyes~0.5"
+        ]
+    },
+    "107": {
+        "path": "annDataset\\107.jpg",
+        "gender": "Female",
+        "insults": [
+            "Go make me a sandwich~1.0"
+        ],
+        "compliments": [
+            "You are a strong woman~0.8",
+            "You are an independent woman~0.8",
+            "Your taste for sunglasses is exquisite~0.8",
+            "You have round cheeks~0.2"
+        ]
+    },
+    "108": {
+        "path": "annDataset\\108.jpg",
+        "gender": "Male",
+        "insults": [
+            "Your oblong spectacles complements your rectangular face~0.8"
+        ],
+        "compliments": [
+            "Your hair looks neat~0.2"
+        ]
+    },
+    "109": {
+        "path": "annDataset\\109.jpg",
+        "gender": "Male",
+        "insults": [
+            "You are bald~0.2",
+            "You are the adult version of Pinochio~0.7"
+        ],
+        "compliments": [
+            "You look like a good father~0.8"
+        ]
+    },
+    "11": {
+        "path": "annDataset\\11.jpg",
+        "gender": "Male",
+        "insults": [
+            "You are undoubtedly racist~0.9",
+            "You like a sadist dictator~0.7",
+            "You have a creepy smile~0.7",
+            "Your face is replete with winkles~0.5"
+        ],
+        "compliments": [
+            "Your cap looks awesome~0.2"
+        ]
+    },
+    "110": {
+        "path": "annDataset\\110.jpg",
+        "gender": "Male",
+        "insults": [
+            "You are a mere ersatz of our forefathers~0.9"
+        ],
+        "compliments": [
+            "You look like a fine gentleman~0.6",
+            "You look venerable~0.8",
+            "You have well-groomed hair~0.3",
+            "You look like a statesman~0.6"
+        ]
+    },
+    "111": {
+        "path": "annDataset\\111.jpg",
+        "gender": "Female",
+        "insults": [],
+        "compliments": [
+            "You look a K-Pop star~0.8",
+            "This look is so gorgeous Your hair looks amazing~0.7",
+            "You look adorable~0.8",
+            "Your smile lights up the room~0.8"
+        ]
+    },
+    "112": {
+        "path": "annDataset\\112.jpg",
+        "gender": "Male",
+        "insults": [
+            "You look like a vampire~0.8",
+            "You dress up like a woman ~0.8",
+            "Your eyes are devoid of life~0.5"
+        ],
+        "compliments": [
+            "You look handsome~0.6"
+        ]
+    },
+    "113": {
+        "path": "annDataset\\113.jpg",
+        "gender": "Female",
+        "insults": [
+            "Your hair is unkempt~0.6",
+            "Your eyebrows are not symmetrical~0.4"
+        ],
+        "compliments": [
+            "You have a lovely smile~0.6",
+            "You have a well-defined jawline~0.7",
+            "You have a sharp jawline~0.7"
+        ]
+    },
+    "114": {
+        "path": "annDataset\\114.jpg",
+        "gender": "Female",
+        "insults": [
+            "You look like a clown~0.4",
+            "You are plump~0.5",
+            "You have small eyes~0.3",
+            "Your nose looks oversized~0.6"
+        ],
+        "compliments": [
+            "Your hair looks stylish~0.6",
+            "You exude motherly vibes~0.3",
+            "You look like a kind woman~0.2"
+        ]
+    },
+    "115": {
+        "path": "annDataset\\115.jpg",
+        "gender": "Female",
+        "insults": [
+            "Your hair looks messy~0.3"
+        ],
+        "compliments": [
+            "Your ear studs look stylish~0.5",
+            "Your facial features are proportional~0.3",
+            "You look like a competent woman~0.6"
+        ]
+    },
+    "116": {
+        "path": "annDataset\\116.jpg",
+        "gender": "Female",
+        "insults": [
+            "You look retarded~0.99",
+            "You look like a fool~0.8",
+            "No wonder abortion is outlawed~0.8",
+            "You look a stroke victim~0.99"
+        ],
+        "compliments": []
+    },
+    "117": {
+        "path": "annDataset\\117.jpg",
+        "gender": "Female",
+        "insults": [
+            "Do your workouts~0.7",
+            "You have a lazy eye~0.6",
+            "Your face looks plump~0.3"
+        ],
+        "compliments": [
+            "You have long, silky hair~0.6"
+        ]
+    },
+    "118": {
+        "path": "annDataset\\118.jpg",
+        "gender": "Female",
+        "insults": [
+            "You look creepy~0.7",
+            "You don't have a boyfriend for so long that your parents are disappointed in you~0.5",
+            "Do your workouts~0.5"
+        ],
+        "compliments": [
+            "You have neat hair~0.3"
+        ]
+    },
+    "119": {
+        "path": "annDataset\\119.jpg",
+        "gender": "Male",
+        "insults": [],
+        "compliments": [
+            "You will grow up to become a man that your parents are proud of~0.3",
+            "You are a smart young boy~0.5"
+        ]
+    },
+    "12": {
+        "path": "annDataset\\12.jpg",
+        "gender": "Male",
+        "insults": [
+            "You look like a knockoff Michael Philips~0.7",
+            "You are balding~0.6",
+            "You have slitted-eyes~0.3"
+        ],
+        "compliments": [
+            "Your smile looks charming~0.5",
+            "You have perfect white teeth~0.5"
+        ]
+    },
+    "120": {
+        "path": "annDataset\\120.jpg",
+        "gender": "Male",
+        "insults": [
+            "You look like a stroke victim~0.99",
+            "Your face is replete with overgrown mustache~0.6"
+        ],
+        "compliments": [
+            "You look like a great fatherly figure~0.4",
+            "You look like a gentleman~0.5"
+        ]
+    },
+    "121": {
+        "path": "annDataset\\121.jpg",
+        "gender": "Female",
+        "insults": [
+            "Halloween came early~0.6",
+            "You look like a experiment gone wrong~0.8"
+        ],
+        "compliments": [
+            "You have nice long brown hair~0.3"
+        ]
+    },
+    "122": {
+        "path": "annDataset\\122.jpg",
+        "gender": "Male",
+        "insults": [
+            "You look like a clown~0.6",
+            "Your hair is really messy~0.6",
+            "You look like you are having a constipation~0.8"
+        ],
+        "compliments": [
+            "You look goofy~0.5"
+        ]
+    },
+    "123": {
+        "path": "annDataset\\123.jpg",
+        "gender": "Female",
+        "insults": [
+            "Your eyebrows look pixelated~0.6"
+        ],
+        "compliments": [
+            "You make a great actress~0.7",
+            "You have a well-defined jawline~0.7",
+            "Your silky hair looks beautiful~0.7"
+        ]
+    },
+    "124": {
+        "path": "annDataset\\124.jpg",
+        "gender": "Male",
+        "insults": [
+            "Your face looks so scrunched up~0.6",
+            "Your eyes are so small~0.5"
+        ],
+        "compliments": [
+            "You look like a man of status~0.7"
+        ]
+    },
+    "125": {
+        "path": "annDataset\\125.jpg",
+        "gender": "Female",
+        "insults": [
+            "You look like a soya bean~0.7"
+        ],
+        "compliments": [
+            "Your taste for sunglasses is exquisite~0.7",
+            "Your silky black hair looks great~0.7"
+        ]
+    },
+    "126": {
+        "path": "annDataset\\126.jpg",
+        "gender": "Male",
+        "insults": [
+            "You look like a chungus~0.6",
+            "Your face looks very much like a soccer ball~0.6"
+        ],
+        "compliments": [
+            "You look like a kind man~0.6",
+            "You exude fatherly vibes~0.5"
+        ]
+    },
+    "127": {
+        "path": "annDataset\\127.jpg",
+        "gender": "Female",
+        "insults": [
+            "Your hair is very messy~0.7"
+        ],
+        "compliments": [
+            "You look like a sportswoman~0.6",
+            "You have a benovelent smile~0.6"
+        ]
+    },
+    "128": {
+        "path": "annDataset\\128.jpg",
+        "gender": "Male",
+        "insults": [
+            "You look like Martin Luther King Jr. but mishapen~0.8",
+            "You look like you got beaten up by the cops~0.7",
+            "You look devoid of life~0.8"
+        ],
+        "compliments": [
+            "Your demeanour is intimidating~0.6"
+        ]
+    },
+    "129": {
+        "path": "annDataset\\129.jpg",
+        "gender": "Female",
+        "insults": [],
+        "compliments": [
+            "You look cute ~0.7",
+            "You have the hair of a celestial ~0.7",
+            "You have beady eyes~0.7"
+        ]
+    },
+    "13": {
+        "path": "annDataset\\13.jpg",
+        "gender": "Female",
+        "insults": [
+            "You look like a she-Donald Duck~1.0",
+            "Your lips are big~0.8"
+        ],
+        "compliments": [
+            "You look like a strong, capable woman ~0.7",
+            "Your black silky hair looks gorgeous~0.8"
+        ]
+    },
+    "130": {
+        "path": "annDataset\\130.jpg",
+        "gender": "Female",
+        "insults": [
+            "You look like a Karen~0.8",
+            "Your nose is too big for you~0.7"
+        ],
+        "compliments": [
+            "Your appearance looks fairly natural~0.5"
+        ]
+    },
+    "131": {
+        "path": "annDataset\\131.jpg",
+        "gender": "Female",
+        "insults": [
+            "You look like a chungus~0.7",
+            "Your lips are so thin~0.6",
+            "Your nose is too big even for a face of your size~0.9"
+        ],
+        "compliments": [
+            "Your golden hair looks great~0.6"
+        ]
+    },
+    "132": {
+        "path": "annDataset\\132.jpg",
+        "gender": "Male",
+        "insults": [
+            "You look like a sex offender~1.0",
+            "You look like a stroke victim~0.99",
+            "Get some exercise~0.8"
+        ],
+        "compliments": [
+            "You have a nice hairline~0.6",
+            "You look like a nice guy~0.6"
+        ]
+    },
+    "133": {
+        "path": "annDataset\\133.jpg",
+        "gender": "Male",
+        "insults": [
+            "You look like you just came out from a haunted house~0.7"
+        ],
+        "compliments": [
+            "Your appearance looks natural~0.3"
+        ]
+    },
+    "134": {
+        "path": "annDataset\\134.jpg",
+        "gender": "Female",
+        "insults": [],
+        "compliments": [
+            "You look cute~0.6",
+            "Your hair is perfectly groomed~0.7",
+            "You look like a chubby, good-looking girl~0.8"
+        ]
+    },
+    "135": {
+        "path": "annDataset\\135.jpg",
+        "gender": "Male",
+        "insults": [],
+        "compliments": [
+            "Time has not been kind to you~0.4",
+            "You look venerable~0.8",
+            "The wrinkles on your face speaks of your wiSdom and experience as a man~0.75"
+        ]
+    },
+    "136": {
+        "path": "annDataset\\136.jpg",
+        "gender": "Male",
+        "insults": [
+            "You look like a cunning fox~0.4",
+            "Your face must have gotten sunburnt~0.6"
+        ],
+        "compliments": [
+            "You look a capable man~0.65"
+        ]
+    },
+    "137": {
+        "path": "annDataset\\137.jpg",
+        "gender": "Male",
+        "insults": [
+            "You look like you are on your dying breath~0.7",
+            "You look like a chemo patient ~0.7",
+            "You have a big forehead~0.6"
+        ],
+        "compliments": [
+            "Your wrinkles are a testament to your wisdom~0.8"
+        ]
+    },
+    "138": {
+        "path": "annDataset\\138.jpg",
+        "gender": "Female",
+        "insults": [
+            "Your gender is ambiguous~0.8",
+            "You look like a politician who has just come on a failed campaign trail~0.7"
+        ],
+        "compliments": [
+            "You look like a strong woman~0.7",
+            "You look like an independent woman~0.6"
+        ]
+    },
+    "139": {
+        "path": "annDataset\\139.jpg",
+        "gender": "Female",
+        "insults": [
+            "Your nose resembles one of a witch~0.9"
+        ],
+        "compliments": [
+            "Wow You must be a great public speaker~0.7",
+            "Your hair is well-groomed~0.7"
+        ]
+    },
+    "14": {
+        "path": "annDataset\\14.jpg",
+        "gender": "Male",
+        "insults": [
+            "You look like a failed model~0.7",
+            "Where are your eyes? I cant see them~0.7"
+        ],
+        "compliments": [
+            "You look muscular~0.7"
+        ]
+    },
+    "140": {
+        "path": "annDataset\\140.jpg",
+        "gender": "Female",
+        "insults": [
+            "Have your parents told you Santa is a myth?~0.3",
+            "It looks like time has robbed you of your sanity~1.0"
+        ],
+        "compliments": [
+            "You make a really good grandma~0.6",
+            "YOu have a tall nose~0.6"
+        ]
+    },
+    "141": {
+        "path": "annDataset\\141.jpg",
+        "gender": "Male",
+        "insults": [],
+        "compliments": [
+            "Awww You look so sweet~0.8",
+            "You are adorable~0.8",
+            "You are so chubby~0.5"
+        ]
+    },
+    "142": {
+        "path": "annDataset\\142.jpg",
+        "gender": "Male",
+        "insults": [
+            "You look like an incarnation of a bulldog~0.9"
+        ],
+        "compliments": [
+            "You are true patriot ~0.8",
+            "You look like a strong, capable young man~0.8",
+            "Your country is proud of you~0.7"
+        ]
+    },
+    "143": {
+        "path": "annDataset\\143.jpg",
+        "gender": "Female",
+        "insults": [],
+        "compliments": [
+            "Aww such a sweet baby~0.8",
+            "what a blessing for your parents to have you~0.8"
+        ]
+    },
+    "144": {
+        "path": "annDataset\\144.jpg",
+        "gender": "Female",
+        "insults": [
+            "You have an oblong face~0.8"
+        ],
+        "compliments": [
+            "Wow. You have nice curly hair~0.7",
+            "You have a distinctive jaw line~0.7"
+        ]
+    },
+    "145": {
+        "path": "annDataset\\145.jpg",
+        "gender": "Male",
+        "insults": [
+            "You have a gorilla-like nose~0.8",
+            "You have yellowish-teeth~0.8",
+            "Your face looks scrunched up~0.5"
+        ],
+        "compliments": [
+            "You look like a kind man~0.7"
+        ]
+    },
+    "146": {
+        "path": "annDataset\\146.jpg",
+        "gender": "Male",
+        "insults": [
+            "Your hair looks messy~0.6",
+            "Stop staring blankily at me~0.5"
+        ],
+        "compliments": [
+            "You have round cheeks~0.5"
+        ]
+    },
+    "147": {
+        "path": "annDataset\\147.jpg",
+        "gender": "Female",
+        "insults": [],
+        "compliments": [
+            "You have fine hair~0.6",
+            "You will make your parents proud when you grow up~0.8",
+            "You look like a cute young girl~0.8"
+        ]
+    },
+    "148": {
+        "path": "annDataset\\148.jpg",
+        "gender": "Male",
+        "insults": [
+            "You look like the creepy man in my garage~0.99",
+            "Your mustache is slightly overgrown~0.8",
+            "I can see that you are balding~0.7"
+        ],
+        "compliments": [
+            "You look like a smart man~0.7"
+        ]
+    },
+    "149": {
+        "path": "annDataset\\149.jpg",
+        "gender": "Male",
+        "insults": [
+            "Your smile looks creepy~0.75",
+            "You have a big forehead~0.7"
+        ],
+        "compliments": [
+            "You have well-groomed hair~0.6"
+        ]
+    },
+    "15": {
+        "path": "annDataset\\15.jpg",
+        "gender": "Female",
+        "insults": [
+            "Wear a helmet your size~0.2"
+        ],
+        "compliments": [
+            "Aww. What a sweet little girl~0.8",
+            "You are crushing it~0.7"
+        ]
+    },
+    "150": {
+        "path": "annDataset\\150.jpg",
+        "gender": "Male",
+        "insults": [
+            "Grow up. You look like a little kid~0.8",
+            "Get an eye checkup~0.3",
+            "Get better at grooming~0.4"
+        ],
+        "compliments": [
+            "You are a goofy man~0.6"
+        ]
+    },
+    "151": {
+        "path": "annDataset\\151.jpg",
+        "gender": "Female",
+        "insults": [
+            "Go to your mummy~0.7"
+        ],
+        "compliments": [
+            "You have beautiful hair~0.6",
+            "You make a good actor~0.8"
+        ]
+    },
+    "152": {
+        "path": "annDataset\\152.jpg",
+        "gender": "Male",
+        "insults": [
+            "You are just a ripoff of your forefathers~1.0"
+        ],
+        "compliments": [
+            "You look like a man of statue~0.8",
+            "You look like a respected member of society~0.8"
+        ]
+    },
+    "153": {
+        "path": "annDataset\\153.jpg",
+        "gender": "Male",
+        "insults": [
+            "Huh. You look like a porcupine~0.8",
+            "Stop baring your teeth~0.6",
+            "Your nose stands out~0.6",
+            "You have a large forehead~0.6"
+        ],
+        "compliments": [
+            "You seem like a good father~0.75"
+        ]
+    },
+    "154": {
+        "path": "annDataset\\154.jpg",
+        "gender": "Female",
+        "insults": [
+            "You have tiny eyes~0.6"
+        ],
+        "compliments": [
+            "You have pristine white teeth~0.7",
+            "You look like a princess~0.8",
+            "The traditional jewellery you are wearing looks spark-on for you~0.8"
+        ]
+    },
+    "155": {
+        "path": "annDataset\\155.jpg",
+        "gender": "Male",
+        "insults": [
+            "It's unhygienic~0.2",
+            "You have a large forehead~0.5"
+        ],
+        "compliments": [
+            "You are a cute young boy~0.7",
+            "Your eyes are wonderlike~0.6"
+        ]
+    },
+    "156": {
+        "path": "annDataset\\156.jpg",
+        "gender": "Female",
+        "insults": [
+            "You look like a Karen~0.9"
+        ],
+        "compliments": [
+            "The sunglasses perched on your nose looks exquisite~0.8",
+            "You have a sharp nose~0.5"
+        ]
+    },
+    "157": {
+        "path": "annDataset\\157.jpg",
+        "gender": "Female",
+        "insults": [],
+        "compliments": [
+            "You have a tall nose~0.5",
+            "Your eyes gleamer~0.6",
+            "Your face complexion looks natural~0.4"
+        ]
+    },
+    "158": {
+        "path": "annDataset\\158.jpg",
+        "gender": "Female",
+        "insults": [
+            "One of your eyes is lazy~0.6",
+            "Your hair looks unkempt~0.7"
+        ],
+        "compliments": [
+            "You have a beaming smile~0.7"
+        ]
+    },
+    "159": {
+        "path": "annDataset\\159.jpg",
+        "gender": "Male",
+        "insults": [],
+        "compliments": [
+            "You are such a cute baby~0.75",
+            "Your eyes are sparkly~0.75"
+        ]
+    },
+    "16": {
+        "path": "annDataset\\16.jpg",
+        "gender": "Male",
+        "insults": [
+            "Your glasses are slippping~0.2"
+        ],
+        "compliments": [
+            "You look well-respected~0.8",
+            "Time must have been harsh on poor you~0.7"
+        ]
+    },
+    "160": {
+        "path": "annDataset\\160.jpg",
+        "gender": "Male",
+        "insults": [
+            "You are balding~0.7",
+            "Your face shape looks like a dumpling~0.6"
+        ],
+        "compliments": [
+            "You have clefted cheeks~0.7"
+        ]
+    },
+    "161": {
+        "path": "annDataset\\161.jpg",
+        "gender": "Female",
+        "insults": [
+            "Stop shying away~0.3"
+        ],
+        "compliments": [
+            "You look like robinhood~0.8",
+            "You long golden hair looks great~0.7"
+        ]
+    },
+    "162": {
+        "path": "annDataset\\162.jpg",
+        "gender": "Female",
+        "insults": [
+            "Your hair is unkempt~0.7",
+            "Your smile looks fake~0.75"
+        ],
+        "compliments": [
+            "Your eyes are luminous~0.7"
+        ]
+    },
+    "163": {
+        "path": "annDataset\\163.jpg",
+        "gender": "Male",
+        "insults": [
+            "You have elephant-like ears~0.5"
+        ],
+        "compliments": [
+            "You look like an esteemed man~0.8",
+            "You make a good father~0.75",
+            "You command respect~0.9"
+        ]
+    },
+    "164": {
+        "path": "annDataset\\164.jpg",
+        "gender": "Female",
+        "insults": [
+            "You look like a grumpy old lady~0.8",
+            "Your face is etched with wrinkles~0.5"
+        ],
+        "compliments": [
+            "You have neat hair~0.55",
+            "Your earrings look great on you~0.65"
+        ]
+    },
+    "165": {
+        "path": "annDataset\\165.jpg",
+        "gender": "Female",
+        "insults": [
+            "Are you in pain?~0.4"
+        ],
+        "compliments": [
+            "You look like a vocal advocate~0.7",
+            "You have silky long hair~0.7"
+        ]
+    },
+    "166": {
+        "path": "annDataset\\166.jpg",
+        "gender": "Female",
+        "insults": [
+            "Who robbed your childhood?~0.6"
+        ],
+        "compliments": [
+            "You are an adorable little girl~0.8"
+        ]
+    },
+    "167": {
+        "path": "annDataset\\167.jpg",
+        "gender": "Female",
+        "insults": [
+            "Your eyes look droopy and emotionless~0.8",
+            "Your hair is obscuring your face~0.4"
+        ],
+        "compliments": [
+            "You look like a motherly figure~0.7"
+        ]
+    },
+    "168": {
+        "path": "annDataset\\168.jpg",
+        "gender": "Female",
+        "insults": [
+            "Your hair is a bit messy~0.3",
+            "You have a weak smile~0.5"
+        ],
+        "compliments": [
+            "You remind me of Greta Thumberg~0.85"
+        ]
+    },
+    "169": {
+        "path": "annDataset\\169.jpg",
+        "gender": "Female",
+        "insults": [
+            "You look like a real-life demon~0.9",
+            "You look creepy~0.99"
+        ],
+        "compliments": [
+            "Your straight golden hair looks good~0.6"
+        ]
+    },
+    "17": {
+        "path": "annDataset\\17.jpg",
+        "gender": "Male",
+        "insults": [],
+        "compliments": [
+            "It seems like time has been harsh on you~0.7",
+            "You look like a wise old man~0.8",
+            "The wrinkles of your face speaks of your wisdom~0.9"
+        ]
+    },
+    "170": {
+        "path": "annDataset\\170.jpg",
+        "gender": "Male",
+        "insults": [
+            "I have seen better politicians~0.7",
+            "So you are one of those dogmatic politician~1.0",
+            "Calm down~0.6"
+        ],
+        "compliments": [
+            "Your dedication to a cause is respectable~0.8"
+        ]
+    },
+    "171": {
+        "path": "annDataset\\171.jpg",
+        "gender": "Male",
+        "insults": [],
+        "compliments": [
+            "You look like a cute baby~0.7",
+            "He looks very sweet and kind~0.8",
+            "You look so energised~0.75"
+        ]
+    },
+    "172": {
+        "path": "annDataset\\172.jpg",
+        "gender": "Female",
+        "insults": [
+            "You look like a grumpy old lady~0.8",
+            "Time has taken a toll on you~0.6",
+            "Your left eye is bigger than your right~0.7"
+        ],
+        "compliments": [
+            "You make a great grandpa~0.7"
+        ]
+    },
+    "173": {
+        "path": "annDataset\\173.jpg",
+        "gender": "Male",
+        "insults": [],
+        "compliments": [
+            "You look very energetic~0.7",
+            "You exude good excellent vibes~0.8",
+            "You light up the room~0.9",
+            "You will grow up to be a big man~0.9"
+        ]
+    },
+    "174": {
+        "path": "annDataset\\174.jpg",
+        "gender": "Female",
+        "insults": [
+            "You look like a Karen~0.8",
+            "You look a tad bit like a witch~1.0"
+        ],
+        "compliments": [
+            "You look intimidating~0.6"
+        ]
+    },
+    "175": {
+        "path": "annDataset\\175.jpg",
+        "gender": "Male",
+        "insults": [
+            "Your front tooth are yellowish~0.6"
+        ],
+        "compliments": [
+            "You look like a well respected man~0.8",
+            "You hair looks stylish~0.75",
+            "Your smile is beaming~0.75"
+        ]
+    },
+    "176": {
+        "path": "annDataset\\176.jpg",
+        "gender": "Female",
+        "insults": [
+            "Your nose is as flat as the lid of a trash can~1.0",
+            "You look plump~0.6",
+            "Your eyelashes are non-existent~0.75"
+        ],
+        "compliments": [
+            "You style your hair well~0.6"
+        ]
+    },
+    "177": {
+        "path": "annDataset\\177.jpg",
+        "gender": "Male",
+        "insults": [
+            "The moustache under your chin looks overgrown~0.8",
+            "You are balding~0.6",
+            "Your face shape resembles a watermelon~0.3"
+        ],
+        "compliments": [
+            "You seem to be a great radio host~0.9",
+            "You look like a kind man~0.75"
+        ]
+    },
+    "178": {
+        "path": "annDataset\\178.jpg",
+        "gender": "Female",
+        "insults": [
+            "You look better wtih neat hair~0.1"
+        ],
+        "compliments": [
+            "Your face complexion looks natural~0.5",
+            "Your smile is genuine~0.7",
+            "You look awesome~0.8"
+        ]
+    },
+    "179": {
+        "path": "annDataset\\179.jpg",
+        "gender": "Female",
+        "insults": [
+            "You have a flat chin~0.6"
+        ],
+        "compliments": [
+            "You look like a sweet young girl~0.7",
+            "Your hairstyle looks great on you~0.65",
+            "You have chubby cheeks~0.7"
+        ]
+    },
+    "18": {
+        "path": "annDataset\\18.jpg",
+        "gender": "Male",
+        "insults": [
+            "Your sunglasses look like they are from the 80s~0.2"
+        ],
+        "compliments": [
+            "You look like a socialite~0.9",
+            "You are well-shaven~0.75"
+        ]
+    },
+    "180": {
+        "path": "annDataset\\180.jpg",
+        "gender": "Male",
+        "insults": [
+            "Your sunglasses does little to hide your hideousness~1.0",
+            "Go get some exercise~0.5",
+            "You look like a chungus~0.3"
+        ],
+        "compliments": [
+            "You have neat hair~0.5"
+        ]
+    },
+    "181": {
+        "path": "annDataset\\181.jpg",
+        "gender": "Male",
+        "insults": [
+            "Your hair is very messy~0.8",
+            "Your nose is too big for you~0.8",
+            "You face shape looks deformed~1.0",
+            "You look like a crook~1.0"
+        ],
+        "compliments": []
+    },
+    "182": {
+        "path": "annDataset\\182.jpg",
+        "gender": "Female",
+        "insults": [
+            "You look like a Karen~0.8"
+        ],
+        "compliments": [
+            "Your eyelashes are a beauty~0.75",
+            "Your hair is well-styled~0.7"
+        ]
+    },
+    "183": {
+        "path": "annDataset\\183.jpg",
+        "gender": "Female",
+        "insults": [
+            "You have a big forehead~0.7"
+        ],
+        "compliments": [
+            "You have a genuine smile~0.6",
+            "Your hair looks neat~0.6",
+            "You have a sharp nose~0.6",
+            "Your jawline looks sharp~0.6"
+        ]
+    },
+    "184": {
+        "path": "annDataset\\184.jpg",
+        "gender": "Male",
+        "insults": [],
+        "compliments": [
+            "Your service to the country is admirable~1.0",
+            "You are a true patriot~0.8",
+            "You command respect~0.9"
+        ]
+    },
+    "185": {
+        "path": "annDataset\\185.jpg",
+        "gender": "Female",
+        "insults": [
+            "You have a lazy eye~0.6",
+            "You hair looks like Einstern's~0.3"
+        ],
+        "compliments": [
+            "You have a beaming smile~0.7",
+            "Your spectacles fit you well~0.6"
+        ]
+    },
+    "186": {
+        "path": "annDataset\\186.jpg",
+        "gender": "Female",
+        "insults": [
+            "You look like a slug~1.0",
+            "You are a chungus~0.6",
+            "You look like a stroke victim~0.99",
+            "Your right eye is bigger than your left~0.8"
+        ],
+        "compliments": [
+            "You have neat hair~0.6"
+        ]
+    },
+    "187": {
+        "path": "annDataset\\187.jpg",
+        "gender": "Female",
+        "insults": [],
+        "compliments": [
+            "Your hair looks stunning~0.8",
+            "Your selection of sunglasses is spot-on~0.7",
+            "You look like a strong, capable women~0.8",
+            "You command respect~0.9"
+        ]
+    },
+    "188": {
+        "path": "annDataset\\188.jpg",
+        "gender": "Male",
+        "insults": [
+            "You look like an Afganistan veteran~0.3",
+            "You look like you are suffering from PTSD~0.7",
+            "Your eyes are devoid of life~0.7"
+        ],
+        "compliments": [
+            "You service to your country is respectable~0.8"
+        ]
+    },
+    "189": {
+        "path": "annDataset\\189.jpg",
+        "gender": "Female",
+        "insults": [],
+        "compliments": [
+            "You look like a kind old lady~0.8",
+            "Time must have been tough on you~0.7",
+            "You make a great grandparent~0.7"
+        ]
+    }
+}
